@@ -52,4 +52,4 @@ plt.xlabel("Tamaño")
 plt.ylabel("Segundos")
 plt.legend()
 plt.tight_layout()
-plt.show()
+plt.show()|
